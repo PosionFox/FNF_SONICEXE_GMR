@@ -1,0 +1,381 @@
+{
+	"song": {
+		"events": [
+			[
+				5278,
+				[
+					[
+						"Change Character",
+						"gf",
+						"TEST"
+					]
+				]
+			],
+			[
+				27600,
+				[
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					],
+					[
+						"Replace stage layer",
+						"transparente",
+						"greenhillfake"
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonicb"
+					],
+					[
+						"Replace stage layer",
+						"greenhillfake",
+						"transparente"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				51600,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"eggmangf"
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Flash Camera",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				52800,
+				[
+					[
+						"Change Character",
+						"gf",
+						"TEST"
+					]
+				]
+			],
+			[
+				64800,
+				[
+					[
+						"Replace stage layer",
+						"transparente",
+						"greenhillfake"
+					],
+					[
+						"Change Character",
+						"1",
+						"eggman"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				86400,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonicb"
+					],
+					[
+						"Replace stage layer",
+						"greenhillfake",
+						"transparente"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Change Character",
+						"1",
+						"eggman"
+					],
+					[
+						"Replace stage layer",
+						"transparente",
+						"greenhillfake"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonicb"
+					],
+					[
+						"Replace stage layer",
+						"greenhillfake",
+						"transparente"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Character",
+						"1",
+						"eggman"
+					],
+					[
+						"Replace stage layer",
+						"transparente",
+						"greenhillfake"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				124500,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonicb"
+					],
+					[
+						"Replace stage layer",
+						"greenhillfake",
+						"transparente"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Change Character",
+						"1",
+						"eggman"
+					],
+					[
+						"Replace stage layer",
+						"transparente",
+						"greenhillfake"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				126900,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonicb"
+					],
+					[
+						"Replace stage layer",
+						"greenhillfake",
+						"transparente"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Change Character",
+						"1",
+						"eggman"
+					],
+					[
+						"Replace stage layer",
+						"transparente",
+						"greenhillfake"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				127800,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonicb"
+					],
+					[
+						"Replace stage layer",
+						"greenhillfake",
+						"transparente"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				128100,
+				[
+					[
+						"Change Character",
+						"1",
+						"eggman"
+					],
+					[
+						"Replace stage layer",
+						"transparente",
+						"greenhillfake"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				128850,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonicb"
+					],
+					[
+						"Replace stage layer",
+						"greenhillfake",
+						"transparente"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Change Character",
+						"1",
+						"eggman"
+					],
+					[
+						"Replace stage layer",
+						"transparente",
+						"greenhillfake"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Change Character",
+						"1",
+						"sonicb"
+					],
+					[
+						"Replace stage layer",
+						"greenhillfake",
+						"transparente"
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					],
+					[
+						"Flash Camera",
+						"0.4",
+						""
+					]
+				]
+			]
+		]
+	}
+}

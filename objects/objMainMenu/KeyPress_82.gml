@@ -1,0 +1,1 @@
+url_open("https://github.com/PosionFox/Friday-Night-Funkin-Gamemaker-Remake/issues");

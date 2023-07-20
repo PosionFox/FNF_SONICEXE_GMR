@@ -1,0 +1,5 @@
+hudBopTimer = 0;
+
+// when a room starts and the musicSync still exists, destroy it to prevent lag
+if (room = rmMainGame) exit;
+if (variable_global_exists("musicSync")) audio_destroy_sync_group(global.musicSync);

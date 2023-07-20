@@ -1,0 +1,129 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "lordx",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Add Camera Zoom",
+						"0.010",
+						"0.02"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Cam Zoom +",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				15000,
+				[
+					[
+						"Cam Zoom +",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				15750,
+				[
+					[
+						"Cam Zoom +",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				16500,
+				[
+					[
+						"Cam Zoom +",
+						"0.25",
+						""
+					]
+				]
+			],
+			[
+				17156.25,
+				[
+					[
+						"Cam Zoom +",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Cam Zoom +",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				19500,
+				[
+					[
+						"Cam Zoom +",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				21000,
+				[
+					[
+						"Cam Zoom +",
+						"0.45",
+						""
+					]
+				]
+			],
+			[
+				22500,
+				[
+					[
+						"Cam Zoom +",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				23156.25,
+				[
+					[
+						"Cam Zoom +",
+						"0.6",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "hellbent"
+	}
+}
