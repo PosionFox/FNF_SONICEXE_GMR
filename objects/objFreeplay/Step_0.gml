@@ -60,9 +60,9 @@ if (input.back)
 	o.roomTo = rmMainMenu;
 }
 
-if (input.left) and (difSelected > 0) { difSelected--; }
+//if (input.left) and (difSelected > 0) { difSelected--; }
 	
-if (input.right) and (difSelected < 2) { difSelected++; }
+//if (input.right) and (difSelected < 2) { difSelected++; }
 
 if (input.enter)
 {

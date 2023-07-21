@@ -10,3 +10,4 @@ sprites.right = VSERSallyRight;
 
 event_inherited();
 
+singFrameMulti = 2.5;

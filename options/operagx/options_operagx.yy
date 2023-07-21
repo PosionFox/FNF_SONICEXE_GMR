@@ -9,7 +9,7 @@
   "option_operagx_internalShareUrl": "https://gx.games/games/zx1l58/friday-night-funkin-gmr/tracks/bd2713da-4536-4638-a5dc-556737b73a80/",
   "option_operagx_interpolate_pixels": true,
   "option_operagx_mod_editUrl": "",
-  "option_operagx_mod_game_name": "${project_name}",
+  "option_operagx_mod_game_name": "FNF_SONICEXE_GMR",
   "option_operagx_mod_guid": "",
   "option_operagx_mod_internalShareUrl": "",
   "option_operagx_mod_next_version": "1.0.0.0",

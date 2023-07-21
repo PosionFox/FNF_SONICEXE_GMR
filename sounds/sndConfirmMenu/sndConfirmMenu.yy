@@ -8,9 +8,9 @@
   },
   "bitDepth": 1,
   "bitRate": 128,
-  "compression": 0,
+  "compression": 1,
   "conversionMode": 0,
-  "duration": 2.298776,
+  "duration": 1.787007,
   "parent": {
     "name": "UI",
     "path": "folders/Game/Core/Sounds/Sounds/UI.yy",

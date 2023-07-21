@@ -235,6 +235,12 @@ function stage_get_room(name)
 {
 	switch (name)
 	{
+		case "alt":
+			return rmGoddess;
+		break;
+		case "requite":
+			return rmForestallDesire;
+		break;
 		default:
 			return rmGoddess;
 		break;

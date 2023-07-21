@@ -30,8 +30,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sprTitle",
-    "path": "sprites/sprTitle/sprTitle.yy",
+    "name": "sprLogo",
+    "path": "sprites/sprLogo/sprLogo.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,5 +1,8 @@
 
-songsList = ["goddess"];
+songsList = [
+	"forestall-desire",
+	"goddess"
+];
 
 songsIconList = [];
 
