@@ -17,11 +17,11 @@
   "option_operagx_mod_team_id": "",
   "option_operagx_mod_team_name": "",
   "option_operagx_mod_version": "1.0.0.0",
-  "option_operagx_next_version": "4.0.0.0",
+  "option_operagx_next_version": "4.0.0.1",
   "option_operagx_publicShareUrl": "https://gx.games/games/zx1l58/friday-night-funkin-gmr/",
   "option_operagx_scale": 0,
   "option_operagx_team_id": "9da14ca6-90f0-4126-a4e7-bd247340a67f",
   "option_operagx_team_name": "posionfox studio",
   "option_operagx_texture_page": "2048x2048",
-  "option_operagx_version": "0.0.0.0",
+  "option_operagx_version": "4.0.0.0",
 }
